@@ -7,5 +7,5 @@ uf = wtforms.SelectField(
         'UF',
         choices=ufbr.list_uf
     )
-`code' 
+
 
